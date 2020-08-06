@@ -1,13 +1,13 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Looset"
+title: "Looset"
+description: "Source code visualization - An explorer for big or complex projects."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# disqus: 'demowebsite'
+mailchimp-list: 'https://github.us17.list-manage.com/subscribe/post?u=e3980ca0503a12af945d921a2&amp;id=8a3343e68d'
 include: ["_pages"]
 permalink: /:title/
 
@@ -16,14 +16,14 @@ authors:
   sal:
     name: Sal
     display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    gravatar: 0cdeb0b85d496cc3559c8f913cc7276c
+    email: JpSoares106@gmail.com
+    web: http://jponline.github.io/site
+    twitter: https://twitter.com/JP0nline
+    description: "Improving how developers face those huge software projects nobody knows how it works."
   john:
     name: John
-    display_name: John    
+    display_name: John
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -46,11 +46,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
+
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
