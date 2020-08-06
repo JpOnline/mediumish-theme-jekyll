@@ -4,16 +4,14 @@ title:  "A architecture"
 author: sal
 image: assets/images/12.jpg
 description: "Details of how I'm planning Looset's architecture."
+comments: false
 featured: true
 hidden: true
 ---
 
-Post about architecture:
-Title: A architecture - Looset case
+I'll tell you some of my opinions about Software Architecture and what are my plans for Looset.
 
-I'll tell you some of my opinions about Software Architecture and what are my plans for my next Open Source project, [Looset](https://jponline.github.io/looset-landing) (might be interesting to take a look first).
-
-Looset is a family of tools to visualize big or complex codebases. It watches you source files as your editor to show in realtime a dependencies diagram and Code Block viewer independent of the filesystem. 
+It'll watch you source files changes as your editor does to show in realtime a dependencies diagram and Code Block viewer independent of the filesystem.
 
 I haven't start to work in Looset yet, but I've thought a bit about its architecture. I believe that in general the "building" metaphor is bad when talking about software, I prefer the "grow" metaphor. When we think about your software as a living organism that needs constant care we make better decisions about it.
 
@@ -60,5 +58,9 @@ In most projects the performance is not a top priority for me because I don't ex
 I created a campaign to both validate the interest and also to be able to invest the amount of time that this project requires. The campaign asks for a one time contribution of any amount and it's all or nothing, you'll be change in the end of the month and only if I get to my goal.
 
 The Looset page with more info: https://jponline.github.io/looset-landing
+
 A demo of the tools: https://youtu.be/x5mZcIVAPcg
+
 The Kickstarter Campaign: https://www.kickstarter.com/projects/looset-team/looset?ref=1i0fmm
+
+<iframe src="https://www.kickstarter.com/projects/looset-team/looset/widget/card.html?v=2" width="430" height="510" frameborder="0" scrolling="no"></iframe>
