@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A architecture"
+title:  "A Architecture"
 author: sal
 image: assets/images/12.jpg
 description: "Details of how I'm planning Looset's architecture."
@@ -57,10 +57,10 @@ In most projects the performance is not a top priority for me because I don't ex
 ## Kickstarter
 I created a campaign to both validate the interest and also to be able to invest the amount of time that this project requires. The campaign asks for a one time contribution of any amount and it's all or nothing, you'll be change in the end of the month and only if I get to my goal.
 
-The Looset page with more info: https://jponline.github.io/looset-landing
+[Looset main page](https://jponline.github.io/looset-landing)
 
-A demo of the tools: https://youtu.be/x5mZcIVAPcg
+[A video demo of the tools](https://youtu.be/x5mZcIVAPcg)
 
-The Kickstarter Campaign: https://www.kickstarter.com/projects/looset-team/looset?ref=1i0fmm
+[The Kickstarter Campaign](https://www.kickstarter.com/projects/looset-team/looset?ref=1i0fmm)
 
 <iframe src="https://www.kickstarter.com/projects/looset-team/looset/widget/card.html?v=2" width="430" height="510" frameborder="0" scrolling="no"></iframe>
