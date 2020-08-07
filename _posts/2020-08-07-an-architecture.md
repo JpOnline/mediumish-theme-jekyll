@@ -7,6 +7,7 @@ description: "Details of how I'm planning Looset's architecture."
 comments: false
 featured: true
 hidden: true
+toc: true
 ---
 
 I'll tell you some of my opinions about Software Architecture and what are my plans for Looset.
