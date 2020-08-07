@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Architecture"
+title:  "An Architecture"
 author: sal
-image: assets/images/12.jpg
+image: assets/images/cells.jpg
 description: "Details of how I'm planning Looset's architecture."
 comments: false
 featured: true
